@@ -1,4 +1,7 @@
 /* Website template by freewebsitetemplates.com */
+h1{
+	color: green;
+}
 body {
 	margin: 0;
 	padding: 0;
